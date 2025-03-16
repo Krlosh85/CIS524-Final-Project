@@ -1,7 +1,9 @@
 # About
 
 Author: Carlos Herrera
+
 CSU ID: 2814075
+
 Cleveland State University - CIS 524 - Comparative Programming Languages
 
 # Description
@@ -44,30 +46,32 @@ Time Complexity: O(log N)
 
 
 ## Main Differences
-### Concept #1: Readability
+### Concept #1: Readability & Syntax
 | Python | C |
 | --- | --- |
-| List all new or modified files |
-| Show file differences that haven't been staged |
-### Concept #2: 
+| Lists are defined by using brackets |
+| Lists and arrays are defined by using curly brackets |
+
+### Concept #2: Memory Management
 
 | Python | C |
 | --- | --- |
-| List all new or modified files |
-| Show file differences that haven't been staged |
+| Dynamically calculates the memory for the array size |
+| In this case we didn't have to define the size of the array since they are fixed for this example, but C would require to use malloc to allocate the space in memory beforehand. This means that we would need to know beforehand the amount of numbers that we will input, or use a different approach to create a dynamic array |
 
-### Concept #3: 
+### Concept #3: Execution
 
 | Python | C |
 | --- | --- |
-| List all new or modified files |
+| Requires a Process VM | No changes |
 | Show file differences that haven't been staged |
 
 ### Concept #4:
 
 | Python | C |
 | --- | --- |
-| List all new or modified files |
+|  |
 | Show file differences that haven't been staged |
 
-Source: https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one. 
+# Resources:
+https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one. 
