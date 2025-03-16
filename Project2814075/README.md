@@ -56,22 +56,22 @@ Time Complexity: O(log N)
 
 | Python | C |
 | --- | --- |
-| Dynamically calculates the memory for the array size |
-| In this case we didn't have to define the size of the array since they are fixed for this example, but C would require to use malloc to allocate the space in memory beforehand. This means that we would need to know beforehand the amount of numbers that we will input, or use a different approach to create a dynamic array |
+| Dynamically calculates the memory for the array size | Static Memory Management In this case we didn't have to define the size of the array since they are fixed for this example, but C would require to use malloc to allocate the space in memory beforehand. This means that we would need to know beforehand the amount of numbers that we will input, or use a different approach to create a dynamic array |
+| Py | C |
 
 ### Concept #3: Execution
 
 | Python | C |
 | --- | --- |
-| Requires a Process VM | No changes |
-| Show file differences that haven't been staged |
+| Requires a Process VM | Doesn't Require a Virtual Machine |
+| Compiled | Interpreted |
 
 ### Concept #4:
 
 | Python | C |
 | --- | --- |
-|  |
-| Show file differences that haven't been staged |
+|  | |
+|  | |
 
 # Resources:
 https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one. 
