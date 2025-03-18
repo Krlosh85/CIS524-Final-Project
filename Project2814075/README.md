@@ -40,8 +40,11 @@ It is a search algorithm used to find the position and the value of a given valu
 
 ***Using Iteration***
 Time Complexity: 
+
     Best Case: O(1)
+    
     Average Case: O(log N)
+    
     Worst Case: O(log N)
 
 ***Using Recursion***
