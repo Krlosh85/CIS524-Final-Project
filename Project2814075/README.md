@@ -98,5 +98,6 @@ Time Complexity: O(log N)
 | Easier readability for recursive algorithms | Requires manual stack management for complex recursion (could have a stack overflow if not managed well)|
 
 # Resources:
-https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one.
+https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binarysearch#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one.
+
 https://library.fiveable.me/key-terms/data-structures/memory-overhead 
