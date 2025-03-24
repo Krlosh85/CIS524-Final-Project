@@ -8,7 +8,7 @@ Cleveland State University - CIS 524 - Comparative Programming Languages
 
 # Description
 
-In this coding assignment I compared two different programming languages by implementing a well known search algorithm: Binary Search!
+In this coding assignment, I compared two different programming languages by implementing a well-known search algorithm: Binary Search!
 
 Binary Search is a great example because it allows us to compare how each language implements key fundamentals of programming, including:
 1. Readability & Syntax
@@ -22,7 +22,7 @@ Binary Search is a great example because it allows us to compare how each langua
 
 ## C Compiler
 ```bash
-c++ BSearch.c -o BSearch
+gcc BSearch.c -o BSearch
 ```
 ``` bash
 ./BSearch
