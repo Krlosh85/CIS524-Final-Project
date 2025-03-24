@@ -101,3 +101,5 @@ Time Complexity: O(log N)
 https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binarysearch#:~:text=Binary%20search%20is%20an%20efficient,possible%20locations%20to%20just%20one.
 
 https://library.fiveable.me/key-terms/data-structures/memory-overhead 
+
+https://www.geeksforgeeks.org/c-vs-python/
